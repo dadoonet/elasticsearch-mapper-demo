@@ -1,0 +1,9 @@
+{
+    "person": {
+        "properties": {
+            "lowercase": {
+                "type": "demo"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "person": {
+        "properties": {
+            "my_demo": {
+                "type": "demo",
+                "fields": {
+                    "demo": {
+                        "index": "not_analyzed"
+                    }
+                }
+            }
+        }
+    }
+}
